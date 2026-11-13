@@ -1,13 +1,13 @@
 # Video Editing Sample 1
-### This This is a vertical format (9:16) gaming short with an explanatory style, created for YouTube Shorts/Instagram Reels.
-### Neither the A-roll nor the B-roll contains any original audio. 
-### Every sound heard in the video, including background music and sound effects, has been added as part of the sound design.
-### This demonstrates my sound design skills & audio layering.
-### Watch from here:- https://youtube.com/shorts/LQBpTP-souY
+- This is a vertical format (9:16) gaming short with an explanatory style, created for YouTube Shorts/Instagram Reels.
+- Neither the A-roll nor the B-roll contains any original audio. 
+- Every sound heard in the video, including background music and sound effects, has been added as part of the sound design.
+- This demonstrates my sound design skills & audio layering.
+- Watch from here:- https://youtube.com/shorts/LQBpTP-souY
 
 
 # Video Editing Sample 2
-### This is a short vertical-format (9:16) advertisement created for YouTube Shorts/Instagram Reels, featuring minimal and straightforward editing.
+This is a short vertical-format (9:16) advertisement created for YouTube Shorts/Instagram Reels, featuring minimal and straightforward editing.
 ### The editing focuses on presenting the content clearly without relying on excessive transitions or visual effects.
 ### There are minor background noise issues in two sections of the video that could not be eliminated completely.
 ### Watch from here:- https://youtube.com/shorts/Sl5KScNokMQ
